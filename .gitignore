@@ -1,0 +1,15 @@
+# Linux / macOS / WSL
+cat > .gitignore <<'EOF'
+node_modules/
+.env
+.vscode/
+.DS_Store
+EOF
+
+# Windows PowerShell
+@" 
+node_modules/
+.env
+.vscode/
+.DS_Store
+"@ > .gitignore
