@@ -5,6 +5,7 @@
 ### 👨‍💻 Developer
 **Ayush Sharma**
 
+<<<<<<< HEAD
 ### 📘 Learning Focus
 - JavaScript Basics:
   - Variables
@@ -18,3 +19,7 @@ This mini project demonstrates the use of JavaScript variables and data types in
 let orderId = 1001;
 let customerName = "Ayush Sharma";
 let isDelivered = false;
+=======
+Hii myself Ayush sharma , mca 3rd sem <br>
+hi myself marvi
+>>>>>>> aeb7ff0801a48b4d89f2e6cf5892764ad0b1a8c8
